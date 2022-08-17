@@ -10,6 +10,10 @@ After that run java -jar useraplication-0.0.1-SNAPSHOT.jar in the location of yo
 
 Go to the browser and go to http://localhost:8080/swagger-ui.html 
 
+Para probar la seguridad probar desde postman con user: admin y pass: admin
+
+desde swagger esta sin seguridad
+
 
 
 

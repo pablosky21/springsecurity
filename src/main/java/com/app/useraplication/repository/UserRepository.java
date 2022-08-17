@@ -8,10 +8,4 @@ import com.app.useraplication.entity.UserEntity;
 @Repository
 public interface UserRepository extends JpaRepository<UserEntity, Integer> {
 
-   
-    
-    
-    
-   
-
 }
