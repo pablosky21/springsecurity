@@ -2,6 +2,10 @@
 
 rest api is a crud of the user
 
+Crear base de datos mysql nombre userapp, la tabla se crea al levantar el proyecto
+
+username = root
+password = 123asd
 
 For install the program you need to run the command "mvn clean install"
 
